@@ -12,6 +12,23 @@ http://45.179.140.242:8000/play/a0l9
 http://181.78.105.146:6060/play/a00l
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://w7.pngwing.com/pngs/976/630/png-transparent-hbo-logo-silver.png"
 http://181.78.105.146:6060/play/a00h
+#EXTINF:-1 tvg-id="MAS ESTRELLAS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL 5" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2020/04/Canal-5-videos.jpg"
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:-1 tvg-id="CANAL 5 MX" tvg-logo="https://i.pinimg.com/originals/24/eb/72/24eb72c4d1daf8a224eb0b3f994cf8d0.png"
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png"
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="D PELICULA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png"
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="D PELICULA +" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.jpg"
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png"
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id=" TUDN" tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp"
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id=" BEiN SPORT" tvg-logo="https://www.beinsports.com/images/bein_logo_social.webp"
+https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u
 
-
-NUEVO01juevess
+2HD
