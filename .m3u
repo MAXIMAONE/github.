@@ -36,7 +36,7 @@ http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png"
 http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
-#EXTINF:-1 tvg-id="| FOX SPORTS MX" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2020/02/20/fox-sports-mexico-compradores-clubes.jpg"
+#EXTINF:-1 tvg-id="FOX SPORTS MX" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2020/02/20/fox-sports-mexico-compradores-clubes.jpg"
 http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png"
 http://livex.pop-app.live/s4n/poplive/ch506/playlist.m3u8
@@ -52,4 +52,4 @@ http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
 
 
-HOY
+HOYss
