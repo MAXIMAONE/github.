@@ -50,6 +50,7 @@ https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://www.tvconexion.com/img/tnt-series.png"
 http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.ytimg.com/vi/d8ipweHTVYk/maxresdefault.jpg"
+http://181.78.105.146:2000/play/a03k/index.m3u8
 
 
-HOYss
