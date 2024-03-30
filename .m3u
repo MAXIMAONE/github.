@@ -30,8 +30,8 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id=" TUDN" tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp"
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TELEMUNDO LA" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
-https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
+#EXTINF:-1 tvg-id=" TELEMUNDO LAT" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2020/02/20/fox-sports-mexico-compradores-clubes.jpg"
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX 3" tvg-logo="https://www.newslinereport.com/online/nota_la-frmula-1-estar-en-la-pantalla-de-fox-sports-3.jpg
@@ -54,7 +54,40 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 #EXTINF:-1 tvg-id="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png"
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
-
+#EXTINF:-1 tvg-id="RCN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png"
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=" Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"
+http://181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-logo="https://i.etsystatic.com/22626837/r/il/351333/3828489363/il_570xN.3828489363_hkwz.jpg"
+http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://i0.wp.com/www.elpoderdelasideas.com/wp-content/uploads/tnt_2016_logo.jpg?resize=600%2C600"
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Antiguo_logo_de_Canal_Once_%28once_TV%29.png"
+http://181.78.105.146:2000/play/a03a/index.m3u
+#EXTINF:-1 tvg-id="TV UNAM" tvg-logo="https://unamglobal.unam.mx/wp-content/uploads/2020/10/Cartelera-TV-UNAM.jpg"
+http://181.78.105.146:2000/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png"
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://play-lh.googleusercontent.com/M4cHamItRchHJM6YRty6IMgF4kpp5B7ofe10r37ZqLjNi3a183uhJ3ueZSQRH2S-hi_A"
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="FX 2" tvg-logo="https://i.pinimg.com/originals/b8/ed/e8/b8ede872f580ca6021c4b10f7894c78d.jpg"
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png"
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png"
+http://181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg"
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="CINE CANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png"
+http://181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="BEiN SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png"
+https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://c0.klipartz.com/pngpicture/580/710/gratis-png-logo-claro-sports-graphics-vivo-logo-de-claro.png"
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png"
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
 
 
 MARZO 22
