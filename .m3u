@@ -36,8 +36,6 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX 3" tvg-logo="https://www.newslinereport.com/online/nota_la-frmula-1-estar-en-la-pantalla-de-fox-sports-3.jpg
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX PREMIUM" tvg-logo="https://i.ytimg.com/vi/Qd7r7yN31Sc/maxresdefault.jpg"
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
 #EXTINF:-1 tvg-id="FOX SPORT 2" tvg-logo="https://sfntv.co/webp/logos/optimized/fsport2.webp"
 http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1 tvg-id="UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Unicable2007.png"
@@ -86,8 +84,8 @@ https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png"
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
+
+
 
 
 MARZO 22
