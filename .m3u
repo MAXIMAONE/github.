@@ -46,8 +46,6 @@ http://181.78.105.146:2000/play/a017/index.m3u8
 http://181.78.105.146:2000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.ytimg.com/vi/d8ipweHTVYk/maxresdefault.jpg"
 http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="https://espnpressroom.com/mexico/files/2015/10/ESPN_Red-Logo-copy.jpg"
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
 #EXTINF:-1 tvg-id="ESPN 2HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png"
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 #EXTINF:-1 tvg-id="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png"
@@ -87,5 +85,4 @@ http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 
 
 
-
-MARZO 22
+ABRIL 05
