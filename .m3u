@@ -82,7 +82,28 @@ https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png"
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-id=" Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
+#EXTINF:-1 tvg-id="FOX SPORT MX" tvg-logo="https://cat.com.mx/wp-content/uploads/2018/05/logo-fox-sports.jpg"
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
+#EXTINF:-1 tvg-id="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Univision_logo.svg"
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1000px-Comedy_Central_2018.svg.png"
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/13
+#EXTINF:-1 tvg-id="DE PELICULA 2MX" tvg-logo="https://i.ytimg.com/vi/qi0qXtL8q2g/hqdefault.jpg"
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/14
+#EXTINF:-1 tvg-id="DISCOVERY MX" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Discovery-Logo.png"
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
+#EXTINF:-1 tvg-id="NATGEO MX" tvg-logo="https://greyboxcreativemain.b-cdn.net/wp-content/uploads/2020/01/National-Geographic-logo.jpg"
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/40
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://www.xn--nosotros-los-diseadores-8hc.com/wp-content/uploads/2019/08/cambio-imagen-sonny-channel-sony-canal.jpg"
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/42
+#EXTINF:-1 tvg-id="TOONCAST MX" tvg-logo="https://i.ytimg.com/vi/x1FGEsyJxAM/maxresdefault.jpg"
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/48
+#EXTINF:-1 tvg-id="MLB NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png"
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/126
 
 
 
-ABRIL 05
+#EXTINF:-1 tvg-id="" tvg-logo=""
+
