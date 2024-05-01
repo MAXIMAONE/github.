@@ -32,8 +32,6 @@ https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id=" TELEMUNDO LAT" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2020/02/20/fox-sports-mexico-compradores-clubes.jpg"
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX 3" tvg-logo="https://www.newslinereport.com/online/nota_la-frmula-1-estar-en-la-pantalla-de-fox-sports-3.jpg
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX SPORT 2" tvg-logo="https://sfntv.co/webp/logos/optimized/fsport2.webp"
@@ -80,12 +78,6 @@ http://181.78.105.146:2000/play/a04q/index.m3u8
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://c0.klipartz.com/pngpicture/580/710/gratis-png-logo-claro-sports-graphics-vivo-logo-de-claro.png"
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png"
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1 tvg-id=" Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
-#EXTINF:-1 tvg-id="FOX SPORT MX" tvg-logo="https://cat.com.mx/wp-content/uploads/2018/05/logo-fox-sports.jpg"
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
 #EXTINF:-1 tvg-id="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Univision_logo.svg"
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1000px-Comedy_Central_2018.svg.png"
@@ -105,5 +97,4 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/126
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo=""
 
