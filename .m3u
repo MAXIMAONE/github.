@@ -27,7 +27,7 @@ https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id=" TUDN" tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp"
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id=" TELEMUNDO LAT" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Unicable2007.png"
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="History" tvg-logo="https://logowik.com/content/uploads/images/history-tv7284.logowik.com.webp"
@@ -39,7 +39,7 @@ http://181.78.105.146:2000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png"
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 #EXTINF:-1 tvg-id="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png"
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
+http://181.78.105.146:2000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="RCN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png"
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id=" Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"
@@ -72,8 +72,15 @@ https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 tvg-id="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Univision_logo.svg"
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id=" LMB: DORADOS (SOLO EN PARTIDO)" tvg-logo="https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/tc1p06gybbfncyotxm0k"
+https://ythls-v2.onrender.com/channel/UCQOSwVDBx6UDeM0v66zQjAg.m3u8
+#EXTINF:-1 tvg-id=" LMB: PIRATAS" tvg-logo="https://img.mlbstatic.com/milb-images/image/private/t_2x1/t_w1536/milb/zxbfj9s2kab5gvulbugw.jpg"
+https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
+#EXTINF:-1 tvg-id=" LMB: NRT MEXICO" tvg-logo="https://cdn.septimaentrada.com/uploads/media/2020/10/01/firmara-lmb-acuerdo-historico-con.jpg"
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id=" LMB: SARAPEROS" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0420%2Fr1161782_1296x729_16%2D9.jpg"
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
-ddsg
 
-#EXTINF:-1 tvg-id="" tvg-logo="" 
+#EXTINF:-1 tvg-id="" tvg-logo=""
 
