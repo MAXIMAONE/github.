@@ -13,19 +13,11 @@ http://181.78.105.146:6060/play/a00l
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://w7.pngwing.com/pngs/976/630/png-transparent-hbo-logo-silver.png"
 http://181.78.105.146:6060/play/a00h
 #EXTINF:-1 tvg-id="MAS ESTRELLAS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="CANAL 5" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2020/04/Canal-5-videos.jpg"
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 tvg-id="CANAL 5 MX" tvg-logo="https://i.pinimg.com/originals/24/eb/72/24eb72c4d1daf8a224eb0b3f994cf8d0.png"
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="D PELICULA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png"
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="D PELICULA +" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.jpg"
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png"
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id=" TUDN" tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp"
-https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1 tvg-id="TUDN" tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp"
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 tvg-id=" TELEMUNDO LAT" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Unicable2007.png"
@@ -72,14 +64,19 @@ https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 tvg-id="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Univision_logo.svg"
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id=" LMB: DORADOS (SOLO EN PARTIDO)" tvg-logo="https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/tc1p06gybbfncyotxm0k"
-https://ythls-v2.onrender.com/channel/UCQOSwVDBx6UDeM0v66zQjAg.m3u8
-#EXTINF:-1 tvg-id=" LMB: PIRATAS" tvg-logo="https://img.mlbstatic.com/milb-images/image/private/t_2x1/t_w1536/milb/zxbfj9s2kab5gvulbugw.jpg"
-https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
-#EXTINF:-1 tvg-id=" LMB: NRT MEXICO" tvg-logo="https://cdn.septimaentrada.com/uploads/media/2020/10/01/firmara-lmb-acuerdo-historico-con.jpg"
-https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
-#EXTINF:-1 tvg-id=" LMB: SARAPEROS" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0420%2Fr1161782_1296x729_16%2D9.jpg"
-https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-id=" LMB: INTERNETV DEPORTES" tvg-logo="https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/tc1p06gybbfncyotxm0k"
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s"
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 tvg-id=" LMB: AYM SPORTS" tvg-logo="https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/tc1p06gybbfncyotxm0k"
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=""
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 tvg-id=" LMB: OLMECAS" tvg-logo="https://static.wikia.nocookie.net/lmb/images/7/79/LMBlogo.png/revision/latest?cb=20150728223309&path-prefix=es"
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+
+15 06
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo=""
