@@ -1,25 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png"
-https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GOLDEN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058"
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg"
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg"
-https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png"
+http://45.179.140.242:8000/play/a0la
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png"
+http://45.179.140.242:8000/play/a0l9
 #EXTINF:-1 tvg-id="HBO Xtreme USA" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png"
 http://181.78.105.146:6060/play/a00l
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://w7.pngwing.com/pngs/976/630/png-transparent-hbo-logo-silver.png"
 http://181.78.105.146:6060/play/a00h
 #EXTINF:-1 tvg-id="MAS ESTRELLAS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAL 5" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2020/04/Canal-5-videos.jpg"
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
-#EXTINF:-1 tvg-id="TUDN" tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp"
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-id=" TELEMUNDO LAT" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:-1 tvg-id="CANAL 5 MX" tvg-logo="https://i.pinimg.com/originals/24/eb/72/24eb72c4d1daf8a224eb0b3f994cf8d0.png"
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="D PELICULA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png"
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="D PELICULA +" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.jpg"
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png"
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id=" TUDN" tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp"
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TELEMUNDO LA" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2020/02/20/fox-sports-mexico-compradores-clubes.jpg"
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX 3" tvg-logo="https://www.newslinereport.com/online/nota_la-frmula-1-estar-en-la-pantalla-de-fox-sports-3.jpg
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM" tvg-logo="https://i.ytimg.com/vi/Qd7r7yN31Sc/maxresdefault.jpg"
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
+#EXTINF:-1 tvg-id="FOX SPORT 2" tvg-logo="https://sfntv.co/webp/logos/optimized/fsport2.webp"
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1 tvg-id="UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Unicable2007.png"
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="History" tvg-logo="https://logowik.com/content/uploads/images/history-tv7284.logowik.com.webp"
@@ -28,56 +41,9 @@ http://181.78.105.146:2000/play/a017/index.m3u8
 http://181.78.105.146:2000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.ytimg.com/vi/d8ipweHTVYk/maxresdefault.jpg"
 http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 2HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png"
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 #EXTINF:-1 tvg-id="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png"
-http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-id="RCN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png"
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id=" Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"
-http://181.78.105.146:2000/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-logo="https://i.etsystatic.com/22626837/r/il/351333/3828489363/il_570xN.3828489363_hkwz.jpg"
-http://181.78.105.146:2000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://i0.wp.com/www.elpoderdelasideas.com/wp-content/uploads/tnt_2016_logo.jpg?resize=600%2C600"
-http://181.78.105.146:2000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Antiguo_logo_de_Canal_Once_%28once_TV%29.png"
-http://181.78.105.146:2000/play/a03a/index.m3u
-#EXTINF:-1 tvg-id="TV UNAM" tvg-logo="https://unamglobal.unam.mx/wp-content/uploads/2020/10/Cartelera-TV-UNAM.jpg"
-http://181.78.105.146:2000/play/a045/index.m3u8
-#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png"
-http://181.78.105.146:2000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://play-lh.googleusercontent.com/M4cHamItRchHJM6YRty6IMgF4kpp5B7ofe10r37ZqLjNi3a183uhJ3ueZSQRH2S-hi_A"
-http://181.78.105.146:2000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-id="FX 2" tvg-logo="https://i.pinimg.com/originals/b8/ed/e8/b8ede872f580ca6021c4b10f7894c78d.jpg"
-http://181.78.105.146:2000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png"
-http://181.78.105.146:2000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png"
-http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg"
-http://181.78.105.146:2000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="CINE CANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png"
-http://181.78.105.146:2000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-id="BEiN SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png"
-https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://c0.klipartz.com/pngpicture/580/710/gratis-png-logo-claro-sports-graphics-vivo-logo-de-claro.png"
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1 tvg-id="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Univision_logo.svg"
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id=" LMB: INTERNETV DEPORTES" tvg-logo="https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/tc1p06gybbfncyotxm0k"
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s"
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1 tvg-id=" LMB: AYM SPORTS" tvg-logo="https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/tc1p06gybbfncyotxm0k"
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=""
-https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 tvg-id=" LMB: OLMECAS" tvg-logo="https://static.wikia.nocookie.net/lmb/images/7/79/LMBlogo.png/revision/latest?cb=20150728223309&path-prefix=es"
-https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-
-15 06
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo=""
-
+MARZO 22
