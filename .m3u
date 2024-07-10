@@ -3,30 +3,30 @@
 
 #EXTINF:-1 tvg-id="| FOX SPORTS MX" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2020/02/20/fox-sports-mexico-compradores-clubes.jpg"
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png"
-http://tilinki.com:25461/caqo5939/2g7xS/24
+#EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png"
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
 #EXTINF:-1 tvg-id="fox sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Fox_Sports_3_Logo_2022.png"
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
 #EXTINF:-1 tvg-id="Copa America TVMAX" tvg-logo="https://images.seeklogo.com/logo-png/53/2/conmebol-copa-america-usa-2024-logo-png_seeklogo-535608.png"
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="COPA AMERICA OP 2" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0717%2Fr1199029_1062x597_16%2D9.jpg"
 http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
 #EXTINF:-1 tvg-id=" azteca deportes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_tjCaR-Hbm4Q1N6l-QqVBRlfPamN9kbn5tQ&s"
 http://tv.proyectox.vip:8080/Hidr13odemsww/nTAuRWcTmD/180062
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
 http://170.82.37.21:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="TUDN" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png"
-http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/24941
-#EXTINF:-1 tvg-id="TUDN SPORTS" tvg-logo="https://seeklogo.com/images/T/tudn-logo-5AD119A8E6-seeklogo.com.png"
-http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 tvg-id="UNICANAL" tvg-logo="https://image.isu.pub/160125142509-92f7036c4f2ee292716ad1b78d71117e/jpg/page_1_thumb_large.jpg"
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/chunklist_w984880022.m3u8?k=6980c82cf2f8826ebe702b27cedaa8378ce91c44410783288cd05392ba49f8e1&exp=1718557383
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://imag.malavida.com/mvimgbig/download-fs/estadio-tnt-sports-31034-0.jpg"
 http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/37542
 #EXTINF:-1 tvg-id="sky sport (México" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo-thumbnail.png"
 https://dashtvcloud.online:8443/josealbrook/panama121/144286
+#EXTINF:-1 tvg-id=" Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png"
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 USA" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png"
+http://200.60.124.19:29000/play/a015/index.m3u8
 
 
-
-
-18 JUNIO
+09 JULIO
