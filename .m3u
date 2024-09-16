@@ -1,14 +1,70 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
+http://45.160.15.130:2909/play/151
+#EXTINF:-1 tvg-id=" A&E" tvg-logo="https://seeklogo.com/images/A/ae-logo-E634AC35E3-seeklogo.com.png?v=637"
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM2i0eq_KZoGcfurZuGsZhO1tOvgzA5gYmNM98wUg=s900-c-k-c0x00ffffff-no-rj"
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://golatinotv.com/wp-content/uploads/2021/02/cinelatino-min.png"
+http://45.166.92.22:58001/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://i.pinimg.com/originals/dc/47/f9/dc47f97388f9d53558c127321a6caf3a.jpg"
+http://45.166.92.22:58001/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png"
+http://45.166.92.22:58001/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id=" Discovery Turbo" tvg-logo="https://appnew.megainfoapp.com/files/1/DiscoveryTurbo.png"
+http://45.166.92.22:58001/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://i.pinimg.com/originals/b8/ed/e8/b8ede872f580ca6021c4b10f7894c78d.jpg"
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg"
+http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="History Channel " tvg-logo="https://www.sintelevisionhd.com/img/history.png"
+http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png"
+http://45.166.92.22:58001/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png"
+http://45.160.15.130:2909/play/098
+#EXTINF:-1 tvg-id="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png"
+http://45.166.92.22:58001/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"
+http://45.166.92.22:58001/play/a03l/index.m3u8
+#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://www.tvconexion.com/img/tnt.png"
+http://45.166.92.22:58001/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="TNT SERIES 2" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/07/TNT-series.jpg"
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id=" WARNER HD 2" tvg-logo="https://cms.cignal.tv/Upload/Images/Warner-TV.jpg"
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1 tvg-id=" A&E" tvg-logo="https://seeklogo.com/images/A/ae-logo-E634AC35E3-seeklogo.com.png?v=637"
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id=" Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png"
+http://45.166.92.22:58001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="AZ CORAZON" tvg-logo="https://jetinternet.es/wp-content/uploads/2022/03/canales-azcorazon.png"
+http://45.166.92.22:58001/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp"
+http://45.166.92.22:58001/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="CARTOON USA" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg"
+http://45.166.92.22:58001/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id=" DISCOVERY THEATHER" tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/theaterhd-uai-258x166.png"
+http://45.166.92.22:58001/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="SONY NOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png"
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="HBO + PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png"
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="H2" tvg-logo="https://www.pngitem.com/pimgs/m/530-5308413_history-channel-2-logo-hd-png-download.png"
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.pinimg.com/736x/b7/3e/23/b73e23e220403513f34bb6689172a744.jpg"
+http://45.166.92.22:58001/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="Pasiones HD" tvg-logo="https://res.cloudinary.com/pipecodes-com/image/upload/fl_lossy/v1619787450/gwjynxxetx3zidpklzvj.webp"
+http://45.166.92.22:58001/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://i.pinimg.com/originals/e9/df/03/e9df03901eeb0c234667e0748fcfa756.jpg"
+http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:-1 tvg-id=" Univision HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png"
+http://45.166.92.22:58001/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png"
+http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/03/cinemax.jpg"
+http://45.160.15.130:2909/play/112
+#EXTINF:-1 tvg-id="CINE CANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-e-uJ6ufe-GqDK_l0kpYVLPfq8Gb02s3Kbg&s"
+http://45.166.92.22:58001/play/a04b/index.m3u8
 
+JULIO 009
 
-#EXTM3U
-#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png"
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/190645.ts
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png"
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/281624.ts
-#EXTINF:-1 tvg-id=" Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/258266.ts
-#EXTINF:-1 tvg-id="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png"
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/190738.ts
-#EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg"
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172762.ts
