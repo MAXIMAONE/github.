@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://i.ytimg.com/vi/Z2_19oGaU-g/sddefault.jpg"
 http://stkip.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/3092.ts
-#EXTINF:-1 tvg-id="fox sports" tvg-logo="https://cat.com.mx/wp-content/uploads/2018/05/logo-fox-sports.jpg"
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-logo="https://espnpressroom.com/latinamerica/files/2022/05/ESPN-Premium-.jpg"
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173358.ts
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
@@ -18,6 +16,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://brandemia.org/sites/default/files/inline/images/azteca7_logo_antes.jpg"
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-id="AZTECA 7.1" tvg-logo="https://i.ibb.co/cFrBCXs/mx-azteca-7-m.png"
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="Imagen Television" tvg-logo="https://i.blogs.es/213596/imagen-tv-logo/1366_2000.jpg"
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="MILENIO TV" tvg-logo="https://i.ytimg.com/vi/gfMVxDkx_Hc/hqdefault.jpg"
