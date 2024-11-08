@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="FOX SPORTS 1 USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Fox_Sports_1994.svg/revision/latest?cb=20230305141812&path-prefix=es"
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-logo="https://espnpressroom.com/latinamerica/files/2022/05/ESPN-Premium-.jpg"
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173358.ts
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png"
@@ -35,4 +33,3 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="TUDN" tvg-logo="https://imgur.com/FbT8oqo"
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
-MIERCOLES 30
