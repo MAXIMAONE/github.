@@ -11,9 +11,7 @@ https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://st1.uvnimg.com/6a/34/43170cc70baee621d09e0c70ba95/las-estrellas.jpg"
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="CANAL 5" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2020/04/Canal-5-videos.jpg"
-http://streamsy.online:2999/happy2024/newyear/1457
-#EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://brandemia.org/sites/default/files/inline/images/azteca7_logo_antes.jpg"
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7.1" tvg-logo="https://i.ibb.co/cFrBCXs/mx-azteca-7-m.png"
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="Imagen Television" tvg-logo="https://i.blogs.es/213596/imagen-tv-logo/1366_2000.jpg"
@@ -24,8 +22,6 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 tvg-id="TELEVISA CD JUAREZ" tvg-logo="https://www.tvjuarez.net/wp-content/uploads/2023/01/TV-JUAREZ-1024x485.png"
-https://ythls-v3.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
 #EXTINF:-1 tvg-id="CANAL 44 Chihuahua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png"
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXUSA" tvg-logo="https://sportshub.cbsistatic.com/i/2023/10/10/8a7cc9c3-1334-4722-b1d3-d639405993c7/fox-usa-network.jpg"
@@ -39,4 +35,3 @@ http://190.60.32.178:8178/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://i.pinimg.com/originals/f4/60/fb/f460fbd3bf84dffee99ce46a6ad489c4.jpg"
 http://190.60.32.178:8178/play/a02w/index.m3u8
 
-OK
