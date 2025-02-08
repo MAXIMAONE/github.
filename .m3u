@@ -16,8 +16,6 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 tvg-id="CANAL 44 Chihuahua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png"
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXUSA" tvg-logo="https://sportshub.cbsistatic.com/i/2023/10/10/8a7cc9c3-1334-4722-b1d3-d639405993c7/fox-usa-network.jpg"
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="TUDN" tvg-logo="https://imgur.com/FbT8oqo"
