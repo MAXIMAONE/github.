@@ -7,7 +7,7 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://st1.uvnimg.com/6a/34/43170cc70baee621d09e0c70ba95/las-estrellas.jpg"
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="CANAL 5" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2020/04/Canal-5-videos.jpg"
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
+http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7.1" tvg-logo="https://i.ibb.co/cFrBCXs/mx-azteca-7-m.png"
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="MILENIO TV" tvg-logo="https://i.ytimg.com/vi/gfMVxDkx_Hc/hqdefault.jpg"
@@ -28,12 +28,6 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-id="UNIVISION" tvg-logo=""
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
-#EXTINF:-1 tvg-id="SYFY ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/SYFY_Logo_2020.png/800px-SYFY_Logo_2020.png"
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SYFY/20-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="AXN MX" tvg-logo="https://pbs.twimg.com/media/CbSpRQ2WEAEErTn.jpg"
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/800px-Logo_Univision_2013.svg.png"
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3FMcSswQ3HUsEYMv_i89cx7UH0ErkN6Xrw&s"
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="MILENIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png"
@@ -44,3 +38,5 @@ http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id=" NFL NETWOR" tvg-logo="https://banner2.cleanpng.com/20180405/kee/avg5crs8q.webp"
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+ok
