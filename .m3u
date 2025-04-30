@@ -28,10 +28,7 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/03/cinemax.jpg"
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id=" MLB NETWORK" tvg-logo="https://www.impactodeportivord.com/wp-content/uploads/2025/01/Screenshot_20250123_153708_Outlook.jpg"
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id=" NFL NETWOR" tvg-logo="https://banner2.cleanpng.com/20180405/kee/avg5crs8q.webp"
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png"
+https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
 
-
-github 26 04
+29 04
