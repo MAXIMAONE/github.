@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="FOX SPORTS 1 USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Fox_Sports_1994.svg/revision/latest?cb=20230305141812&path-prefix=es"
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png"
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://st1.uvnimg.com/6a/34/43170cc70baee621d09e0c70ba95/las-estrellas.jpg"
@@ -28,5 +26,7 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/03/cinemax.jpg"
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png"
+https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
 
-29 04
+01 05 25
