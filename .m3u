@@ -18,7 +18,7 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="CANAL 6 MX" tvg-logo="https://i.pinimg.com/originals/b9/34/da/b934dad29c37c3942f36c440bfca0559.png"
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="UNIVISION" tvg-logo=""
+#EXTINF:-1 tvg-id="UNIVISION" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png"
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3FMcSswQ3HUsEYMv_i89cx7UH0ErkN6Xrw&s"
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
@@ -29,4 +29,4 @@ http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png"
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
 
-01 05 25
+15 08
