@@ -12,21 +12,23 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 tvg-id="FOXUSA" tvg-logo="https://sportshub.cbsistatic.com/i/2023/10/10/8a7cc9c3-1334-4722-b1d3-d639405993c7/fox-usa-network.jpg"
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="AZTECA UNO" tvg-logo="https://tvazteca.brightspotcdn.com/02/3a/97274f9d42e89c1f5028ac7f5bab/ded.jpg"
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="CANAL 6 MX" tvg-logo="https://i.pinimg.com/originals/b9/34/da/b934dad29c37c3942f36c440bfca0559.png"
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="UNIVISION" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png"
+#EXTINF:-1 tvg-id="UNIVISION" tvg-logo=""
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3FMcSswQ3HUsEYMv_i89cx7UH0ErkN6Xrw&s"
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="MILENIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png"
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/03/cinemax.jpg"
-http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png"
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
 
-15 08
+04 10 25
+
+
+
+
+
+
